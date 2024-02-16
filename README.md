@@ -1,4 +1,4 @@
-# Awesome Developer's README
+# About me README
 
 ## Hello World! 👋
 
@@ -29,9 +29,6 @@ Description: Another awesome project you've worked on.
 
 Tech Stack:
 - Java
-- [Any specific Java frameworks/libraries used]
-- HTML, CSS, JavaScript
-
 
 ## 🌱 What I'm Learning
 
