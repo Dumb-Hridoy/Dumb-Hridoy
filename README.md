@@ -2,7 +2,7 @@
 
 ## Hello World! 👋
 
-Welcome to my coding universe! I'm [Your Name], a passionate Java and Front-end developer. This README is your gateway to understanding my projects and exploring the code that powers them.
+Welcome to my coding universe! I'm S M Hridoy Ahmed, a passionate Java and Front-end developer. This README is your gateway to understanding my projects and exploring the code that powers them.
 
 ## 🔧 Technologies & Tools
 
@@ -13,7 +13,7 @@ Welcome to my coding universe! I'm [Your Name], a passionate Java and Front-end 
 
 ## 🚀 Projects
 
-### Project 1: [Project Name]
+### Project 1: Menu driven program 
 
 Description: Briefly describe the purpose and features of your project.
 
@@ -21,9 +21,9 @@ Tech Stack:
 - Java
 - Spring Boot
 - HTML, CSS, JavaScript
-- [Any other relevant technologies]
 
-### Project 2: [Project Name]
+
+### Project 2: Count factors
 
 Description: Another awesome project you've worked on.
 
@@ -31,7 +31,7 @@ Tech Stack:
 - Java
 - [Any specific Java frameworks/libraries used]
 - HTML, CSS, JavaScript
-- [Any other relevant technologies]
+
 
 ## 🌱 What I'm Learning
 
@@ -39,9 +39,9 @@ Currently exploring new technologies and expanding my skill set. Stay tuned for 
 
 ## 📫 Let's Connect
 
-- LinkedIn: [Your LinkedIn Profile]
-- Twitter: [@YourTwitterHandle]
-- Email: [YourEmail@example.com]
+- LinkedIn: dumbcoder
+- Twitter: dumb_hridoy
+- Email: hriahmed229@gmail.com
 
 Feel free to reach out for collaboration, questions, or just a friendly chat about code!
 
